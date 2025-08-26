@@ -1,5 +1,5 @@
 # Hello-world
-Name : Rinkal chauhan < /br>
-College : Sardar Vallabhbhai Global University
-study : BCA
+Name : Rinkal chauhan <br>
+College : Sardar Vallabhbhai Global University <br>
+study : BCA <br>
 Goal : Full-stack Developer
